@@ -10,7 +10,7 @@ import ScrollToTop from 'utils/scrollToTop';
 const App = () => {
   return (
     <div className="App">
-      <Router basename="/react_portfolio_webcad ">
+      <Router basename="/react_portfolio_webcad">
         <ScrollToTop />
         <Navbar />
         <Routes>
