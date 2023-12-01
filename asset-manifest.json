@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_portfolio_webcad/static/css/main.970f1257.css",
-    "main.js": "/react_portfolio_webcad/static/js/main.0feeab69.js",
+    "main.js": "/react_portfolio_webcad/static/js/main.dd68fb4f.js",
     "static/media/04-big.jpg": "/react_portfolio_webcad/static/media/04-big.9dc8caf822c4a4116af4.jpg",
     "static/media/01-big.jpg": "/react_portfolio_webcad/static/media/01-big.ecb03349664096d93b17.jpg",
     "static/media/03-big.jpg": "/react_portfolio_webcad/static/media/03-big.42d4e6c6843189e73fd2.jpg",
@@ -25,10 +25,10 @@
     "index.html": "/react_portfolio_webcad/index.html",
     "static/media/linkedIn.svg": "/react_portfolio_webcad/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "main.970f1257.css.map": "/react_portfolio_webcad/static/css/main.970f1257.css.map",
-    "main.0feeab69.js.map": "/react_portfolio_webcad/static/js/main.0feeab69.js.map"
+    "main.dd68fb4f.js.map": "/react_portfolio_webcad/static/js/main.dd68fb4f.js.map"
   },
   "entrypoints": [
     "static/css/main.970f1257.css",
-    "static/js/main.0feeab69.js"
+    "static/js/main.dd68fb4f.js"
   ]
 }
